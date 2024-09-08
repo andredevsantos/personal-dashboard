@@ -65,5 +65,6 @@
     "**/*.{json,css,scss,md,webmanifest}": [
       "prettier -w"
     ]
-  }
+  },
+  "packageManager": "pnpm@9.3.0"
 }
