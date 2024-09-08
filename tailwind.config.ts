@@ -50,6 +50,10 @@ export default {
         flicker: 'flicker 3s linear infinite',
         shimmer: 'shimmer 1.3s linear infinite',
       },
+      aspectRatio: {
+        '2/1': '2 / 1',
+        '1/2': '1 / 2',
+      },
     },
   },
   plugins: [require('@tailwindcss/forms')],
